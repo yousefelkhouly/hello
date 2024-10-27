@@ -1,0 +1,84 @@
+html {
+  font-size: 62.5%;
+  background-color: black;
+}
+* {
+  box-sizing: border-box;
+  padding: 0rem;
+  margin: 0rem;
+}
+.first-line {
+  width: 9rem;
+  height: 3rem;
+  margin-left: 55rem;
+  color: white;
+  background-color: darkred;
+  border-radius: 2rem;
+}
+
+.all {
+  font-size: 1.7rem;
+  font-style: inherit;
+  padding: 1.5rem;
+}
+img {
+  background-color: darkred;
+  padding: 0.5rem;
+  margin: 1rem;
+  margin-left: 30rem;
+  border-radius: 5rem;
+}
+.insta {
+  background-color: black;
+  color: white;
+}
+.github-link {
+  background: darkred;
+  color: white;
+}
+.gitbutton {
+  padding: 0.4rem;
+  margin: 0.4rem;
+  margin-left: 0.7rem;
+  background: darkred;
+  border: 1rem;
+  border-radius: 2rem;
+  border: 0.2rem solid darkred;
+  border-radius: 0.8rem;
+  font-size: 1.5rem;
+}
+
+.instabutton {
+  padding: 0.4rem;
+  margin: 0.4rem;
+  margin-left: 0.7rem;
+  background: black;
+  border: 1rem;
+  border-radius: 2rem;
+  border: 0.1rem solid white;
+  border-radius: 1.5rem;
+  font-size: 1.5rem;
+}
+.both {
+  /* background: darkred;
+  margin-top: 0.5rem;
+  padding: 1rem;
+  border-radius: 2rem; */
+  color: white;
+}
+.communicate {
+  /* background: darkred;
+  width: 26rem;
+  margin-top: 0.5rem;
+  padding: 1rem;
+  border-radius: 2rem; */
+  color: white;
+}
+.instalogo {
+  background-color: black;
+  margin: 0.01rem;
+  padding: 0.01rem;
+  margin-bottom: -0.7rem;
+  margin-top: -0.7rem;
+  margin-left: -0.2rem;
+}
